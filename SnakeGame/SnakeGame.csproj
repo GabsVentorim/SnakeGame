@@ -9,8 +9,10 @@
 
   <ItemGroup>
     <None Remove="Assets\" />
+    <None Remove="App.xaml\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assets\" />
+    <Folder Include="App.xaml\" />
   </ItemGroup>
 </Project>
